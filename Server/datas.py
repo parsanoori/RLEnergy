@@ -33,7 +33,8 @@ weights = {
 }
 
 carbon_type_values = {
-    "renewable energy": 1000
+    "renewable energy": 1000,
+    "reforestation": 1200
 }
 
 carbon_id_to_type = {
